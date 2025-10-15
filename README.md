@@ -32,3 +32,4 @@ You can click the Preview link to take a look at your changes.
 
 
 ![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=micro&logoColor=white)
+![Ray Tracing](https://img.shields.io/badge/Ray%20Tracing-FF6B6B?style=for-the-badge&logo=raylib&logoColor=white)
