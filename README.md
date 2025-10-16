@@ -37,7 +37,12 @@ You can click the Preview link to take a look at your changes.
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![Bevy](https://img.shields.io/badge/Bevy-232326?style=for-the-badge&logo=bevy&logoColor=white)
+
 
 
 ![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=micro&logoColor=white)
 ![Ray Tracing](https://img.shields.io/badge/Ray%20Tracing-FF6B6B?style=for-the-badge&logo=raylib&logoColor=white)
+![UDP](https://img.shields.io/badge/UDP-Networking-blue?style=for-the-badge)
+![ECS](https://img.shields.io/badge/ECS-Architecture-green?style=for-the-badge)
+
