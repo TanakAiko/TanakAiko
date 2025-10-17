@@ -1,8 +1,10 @@
 # Hi there! 👋 I'm MBAYE Cheikh Ahmed Tidiane Cherif
 
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7A6&width=500&lines=Full+Stack+Developer;Open+Source+Contribution+Enthusiast;From+Ideas+to+Building+to+Deployment;Building+the+Future+with+Code)](https://git.io/typing-svg)
 
-
+</div>
 
 ## 🙋‍♂️ About Me
 
